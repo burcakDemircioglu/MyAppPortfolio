@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:buttonStyle">@style/button</item>
+    </style>
+    <style name="button" parent="@android:style/Widget.Button">
+        <item name="android:backgroundTint">#F08C35</item>
+        <item name="android:textSize">6pt</item>
+    </style>
+</resources>
